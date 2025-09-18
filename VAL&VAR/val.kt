@@ -1,4 +1,5 @@
 fun main(){
+    //Once a value is assigned to a val variable, it cannot be reassigned to a different value.
     val x = 24
 
     //int data type syntax
